@@ -1,5 +1,6 @@
 # RateLimitDemo
-Just checking out the .NET 8 rate limiting middleware
+Just checking out the .NET 8 rate limiting middleware.
+This repo is just a personal reminder for me. If you find anything interesting or helpful feel free to take it.
 
 ## Links
 
